@@ -1,16 +1,16 @@
-## Hi there 👋
+# 🛡️ JhonnF Arias | Infrastructure Resilience & Hybrid Security Specialist
 
-<!--
-**JhonnF-Security/JhonnF-Security** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Ingeniero de Sistemas con una trayectoria de +12 años en el sector de la seguridad. Mi enfoque integra la robustez de la infraestructura física con técnicas avanzadas de protección digital para garantizar la continuidad del negocio en entornos críticos.
 
-Here are some ideas to get you started:
+### 🚀 Áreas de Especialización
+* **Infraestructura Crítica:** Blindaje de servidores, redes OT/IT y sistemas de misión crítica.
+* **Seguridad Ofensiva (Red Team):** Pentesting, Ethical Hacking y Análisis de Vulnerabilidades.
+* **Resiliencia Organizacional:** Backups inmutables, recuperación ante desastres y Zero Trust.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack & Herramientas
+* **OS:** Linux (Hardening), Windows Server.
+* **Networking:** Cisco (Netacad), Segmentación de Redes, Firewalls.
+* **Cyber:** Python para Seguridad, Kali Linux, Herramientas de Auditoría (Lynis, Nmap).
+
+---
+*"De la seguridad perimetral física al blindaje de activos digitales: 360° de protección."*
