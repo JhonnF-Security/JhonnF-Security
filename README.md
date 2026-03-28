@@ -1,3 +1,14 @@
+┌───────────────────────────────────────────────┐
+│                                               │
+│     ███████╗███████╗██████╗██╗   ██╗██████╗   │
+│     ██╔════╝██╔════╝██╔══██╗██║   ██║██╔══██╗ │
+│     ███████╗█████╗  ██║  ██║██║   ██║██████╔╝ │
+│     ╚════██║██╔══╝  ██║  ██║██║   ██║██╔══██╗ │
+│     ███████║███████╗██████╔╝╚██████╔╝██║  ██║ │
+│     ╚══════╝╚══════╝╚═════╝  ╚═════╝ ╚═╝  ╚═╝ │
+│                                               │
+│         H Y B R I D   S E C U R I T Y         │
+└───────────────────────────────────────────────┘
 # 🛡️ JhonnF Arias | Infrastructure Resilience & Hybrid Security Specialist
 
 Ingeniero de Sistemas con una trayectoria de +12 años en el sector de la seguridad. Mi enfoque integra la robustez de la infraestructura física con técnicas avanzadas de protección digital para garantizar la continuidad del negocio en entornos críticos.
